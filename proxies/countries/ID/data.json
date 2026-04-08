@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "host": "160.22.200.70",
+      "ip": "160.22.200.70",
+      "port": 69,
+      "delay": 3460,
+      "country_code": "ID",
+      "country_name": "Indonesia",
+      "checks_up": 158,
+      "checks_down": 35,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 0,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 81,
+      "last_seen": "2026-04-08T04:31:47Z"
+    }
+  ]
+}

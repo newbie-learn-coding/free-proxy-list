@@ -1,3 +1,116 @@
 {
-  "data": []
+  "data": [
+    {
+      "host": "70.166.167.55",
+      "ip": "70.166.167.55",
+      "port": 57745,
+      "delay": 1080,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 65535,
+      "checks_down": 20333,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 76,
+      "last_seen": "2026-04-08T04:37:20Z"
+    },
+    {
+      "host": "70.166.65.160",
+      "ip": "70.166.65.160",
+      "port": 4145,
+      "delay": 4180,
+      "country_code": "US",
+      "country_name": "United States",
+      "city": "Warner Robins",
+      "checks_up": 1450,
+      "checks_down": 1363,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 51,
+      "last_seen": "2026-04-08T04:36:43Z"
+    },
+    {
+      "host": "98.178.72.21",
+      "ip": "98.178.72.21",
+      "port": 10919,
+      "delay": 3300,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 59921,
+      "checks_down": 20356,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 74,
+      "last_seen": "2026-04-08T04:35:58Z"
+    },
+    {
+      "host": "98.190.239.3",
+      "ip": "98.190.239.3",
+      "port": 4145,
+      "delay": 1240,
+      "country_code": "US",
+      "country_name": "United States",
+      "city": "Wichita",
+      "checks_up": 5728,
+      "checks_down": 608,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 90,
+      "last_seen": "2026-04-08T04:35:54Z"
+    },
+    {
+      "host": "70.166.167.38",
+      "ip": "70.166.167.38",
+      "port": 57728,
+      "delay": 1100,
+      "country_code": "US",
+      "country_name": "United States",
+      "checks_up": 58652,
+      "checks_down": 18870,
+      "anon": 4,
+      "http": 0,
+      "ssl": 0,
+      "socks4": 1,
+      "socks5": 1,
+      "protocols": [
+        "SOCKS4",
+        "SOCKS5"
+      ],
+      "anonymity_level": "Elite",
+      "uptime": 75,
+      "last_seen": "2026-04-08T04:35:53Z"
+    }
+  ]
 }
